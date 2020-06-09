@@ -8,7 +8,7 @@ metadata:
 
 spec:
   type: LoadBalancer
-  port:
+  ports:
     - port: 80
       targetPort: 80
 
